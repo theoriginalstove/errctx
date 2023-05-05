@@ -1,5 +1,7 @@
 # errctx
 
+This is a fork of [Leven Labs `errctx`](https://github.com/levenlabs/errctx) package which also combines some functionality from [`go-llog`](https://github.com/levenlabs/go-llog) for working with errors and adding context to said errors.
+
 The errctx package allows for setting and retrieving contextual information using
 `error` objects.
 
